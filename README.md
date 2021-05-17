@@ -4,6 +4,6 @@ I’m currently working on game called [Recusant](https://github.com/unaryinc/Re
 
 [![Stuurs's github stats](https://github-readme-stats.vercel.app/api?username=IlyaStuurFedorov&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Stuurs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IlyaStuurFedorov&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Stuurs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IlyaStuurFedorov&theme=highcontrast)](https://wakatime.com/@IlyaStuurFedorov)
 
 [![Stuurs's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaStuurFedorov&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
